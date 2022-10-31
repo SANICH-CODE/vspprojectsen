@@ -1,0 +1,1 @@
+console.log('СОЗДАНО VSP PROJECT в 2022 году')

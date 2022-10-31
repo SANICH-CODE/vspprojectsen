@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "ЗОНА В РАЗРАБОТКЕ"
+AuthUserFile "/itogs/.htpasswd"
+require valid-user

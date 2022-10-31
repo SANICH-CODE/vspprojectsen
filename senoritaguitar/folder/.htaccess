@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Area"
+AuthUserFile https://replit.com/@SansanichOffici/senioritaguitarglav#folder/.htpasswd
+Require valid-user

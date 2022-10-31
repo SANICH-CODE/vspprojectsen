@@ -1,0 +1,3 @@
+ErrorDocument 404 https://senoritaguitar.myarena.site/404
+ErrorDocument 500 https://senoritaguitar.myarena.site/500
+ErrorDocument 403 https://senoritaguitar.myarena.site/403
